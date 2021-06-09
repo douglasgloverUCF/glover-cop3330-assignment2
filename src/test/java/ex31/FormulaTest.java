@@ -1,4 +1,4 @@
-package Sol31;
+package ex31;
 
 import org.junit.jupiter.api.Test;
 

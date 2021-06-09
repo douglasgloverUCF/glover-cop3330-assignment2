@@ -1,4 +1,4 @@
-package Sol31;
+package ex31;
 
 public class Formula {
     int getTargetRate(int intensity, int age, int rate)
