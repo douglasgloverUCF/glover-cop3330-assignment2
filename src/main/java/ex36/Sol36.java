@@ -4,7 +4,6 @@
  */
 package ex36;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
 /*
 Statistics is important in our field. When measuring response times or rendering times, it’s helpful to collect data so you can easily spot abnormalities.
