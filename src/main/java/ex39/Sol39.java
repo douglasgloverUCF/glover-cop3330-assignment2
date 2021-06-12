@@ -15,12 +15,12 @@ When you’re looking at results, you’ll want to be able to sort them so you c
 Given the following data set, create a program that sorts all employees by last name and prints them to the screen in a tabular format.
 
 First Name	    Last Name	    Position	        Separation Date
-John	        Johnson	        Manager	            2016-12-31              0
-Tou	            Xiong	        Software Engineer	2016-10-05              1
-Michaela	    Michaelson	    District Manager	2015-12-19              2
-Jake	        Jacobson	    Programmer                                  3
-Jacquelyn	    Jackson	        DBA                                         4
-Sally	        Webber	        Web Developer	    2015-12-18              5
+John	        Johnson	        Manager	            2016-12-31
+Tou	            Xiong	        Software Engineer	2016-10-05
+Michaela	    Michaelson	    District Manager	2015-12-19
+Jake	        Jacobson	    Programmer
+Jacquelyn	    Jackson	        DBA
+Sally	        Webber	        Web Developer	    2015-12-18
 
 
 Example Output
